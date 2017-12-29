@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wechat.handler;
+package com.github.demo.wechat.handler;
 
 import me.chanjar.weixin.common.session.WxSessionManager;
 import me.chanjar.weixin.mp.api.WxMpService;
@@ -11,7 +11,7 @@ import java.util.Map;
 /**
  * 门店审核事件处理
  *
- * @author Binary Wang(https://github.com/binarywang)
+ *
  */
 @Component
 public class StoreCheckNotifyHandler extends AbstractHandler {

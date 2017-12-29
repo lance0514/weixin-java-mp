@@ -1,6 +1,7 @@
-package com.github.binarywang.demo.wechat.config;
+package com.github.demo.wechat.config;
 
 import com.github.binarywang.demo.wechat.handler.*;
+import com.github.demo.wechat.handler.*;
 import me.chanjar.weixin.mp.api.WxMpConfigStorage;
 import me.chanjar.weixin.mp.api.WxMpInMemoryConfigStorage;
 import me.chanjar.weixin.mp.api.WxMpMessageRouter;

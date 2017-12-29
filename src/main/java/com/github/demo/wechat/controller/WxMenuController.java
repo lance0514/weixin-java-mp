@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wechat.controller;
+package com.github.demo.wechat.controller;
 
 import me.chanjar.weixin.common.bean.menu.WxMenu;
 import me.chanjar.weixin.common.bean.menu.WxMenuButton;
@@ -18,7 +18,7 @@ import static me.chanjar.weixin.common.api.WxConsts.MenuButtonType;
  *      实际项目中无需这样，根据自己需要添加对应接口即可
  * </pre>
  *
- * @author Binary Wang(https://github.com/binarywang)
+ *
  */
 @RestController
 @RequestMapping("/wechat/menu")

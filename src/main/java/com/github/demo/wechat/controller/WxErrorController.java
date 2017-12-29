@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wechat.controller;
+package com.github.demo.wechat.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -18,7 +18,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.Map;
 
 /**
- * @author Binary Wang(https://github.com/binarywang)
+ *
  */
 @Controller
 public class WxErrorController implements ErrorController {

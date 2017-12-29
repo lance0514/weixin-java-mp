@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wechat.config;
+package com.github.demo.wechat.config;
 
 import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.apache.commons.lang3.builder.ToStringStyle;
@@ -7,7 +7,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 /**
  * wechat mp properties
  *
- * @author Binary Wang(https://github.com/binarywang)
+ *
  */
 @ConfigurationProperties(prefix = "wechat.mp")
 public class WechatMpProperties {

@@ -1,10 +1,10 @@
-package com.github.binarywang.demo.wechat;
+package com.github.demo.wechat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author Binary Wang(https://github.com/binarywang)
+ *
  */
 @SpringBootApplication
 public class WxMpDemoApplication {

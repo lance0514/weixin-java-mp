@@ -1,7 +1,7 @@
-package com.github.binarywang.demo.wechat.handler;
+package com.github.demo.wechat.handler;
 
-import com.github.binarywang.demo.wechat.builder.TextBuilder;
-import com.github.binarywang.demo.wechat.utils.JsonUtils;
+import com.github.demo.wechat.builder.TextBuilder;
+import com.github.demo.wechat.utils.JsonUtils;
 import me.chanjar.weixin.common.exception.WxErrorException;
 import me.chanjar.weixin.common.session.WxSessionManager;
 import me.chanjar.weixin.mp.api.WxMpService;
@@ -15,7 +15,7 @@ import java.util.Map;
 import static me.chanjar.weixin.common.api.WxConsts.XmlMsgType;
 
 /**
- * @author Binary Wang(https://github.com/binarywang)
+ *
  */
 @Component
 public class MsgHandler extends AbstractHandler {

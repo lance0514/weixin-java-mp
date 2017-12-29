@@ -1,4 +1,4 @@
-package com.github.binarywang.demo.wechat.controller;
+package com.github.demo.wechat.controller;
 
 import me.chanjar.weixin.mp.api.WxMpMessageRouter;
 import me.chanjar.weixin.mp.api.WxMpService;
@@ -11,7 +11,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @author Binary Wang(https://github.com/binarywang)
+ *
  */
 @RestController
 @RequestMapping("/wechat/security")
