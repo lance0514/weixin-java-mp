@@ -18,7 +18,7 @@ import static me.chanjar.weixin.common.api.WxConsts.*;
 /**
  * wechat mp configuration
  *
- * @author Binary Wang(https://github.com/binarywang)
+ *
  */
 @Configuration
 @ConditionalOnClass(WxMpService.class)

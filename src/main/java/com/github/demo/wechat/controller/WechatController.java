@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.*;
  * @author Binary Wang(https://github.com/binarywang)
  */
 @RestController
-@RequestMapping("/wechat/portal")
+@RequestMapping("/wechat/security")
 public class WechatController {
   private final Logger logger = LoggerFactory.getLogger(this.getClass());
 
